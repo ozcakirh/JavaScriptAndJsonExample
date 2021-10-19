@@ -9,6 +9,11 @@
             "Adi":"Mümin",
             "Soyadi":"ÖZÇAKIR",
             "Yas":25
+        },
+        {
+            "Adi":"Tubanur",
+            "Soyadi":"ÖZÇAKIR",
+            "Yas":26
         }
     ],
     "Yetki":["Yönetici","Kullanici"]
