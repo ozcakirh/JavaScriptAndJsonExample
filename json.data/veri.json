@@ -1,0 +1,15 @@
+{
+    "Kullanicilar":[
+        {
+            "Adi":"Hüseyin",
+            "Soyadi":"ÖZÇAKIR",
+            "Yas":50
+        },
+        {
+            "Adi":"Mümin",
+            "Soyadi":"ÖZÇAKIR",
+            "Yas":25
+        }
+    ],
+    "Yetki":["Yönetici","Kullanici"]
+}
